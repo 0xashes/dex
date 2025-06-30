@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	LiquiditySourcesEndpoint = "/api/v5/dex/aggregator/get-liquidity" // Get liquidity sources available for swap in the OKX aggregation protocol
+	LiquiditySourcesEndpoint = "/api/v5/dex/aggregator/get-liquidity"
 	LiquiditySourcesMethod   = "GET"
 )
 
